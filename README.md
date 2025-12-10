@@ -3,7 +3,7 @@
 # ✈️ AIRLINE MARKET INSIGHTS AND PRICING ANALYSIS
 
 **Overview**  
-Conducted an in-depth analysis of commercial flight records to uncover trends in pricing, demand, departure/arrival patterns, and route popularity. This project uses the dataset you uploaded (`airlines_flights_data.csv`) and the analysis notebook (`AIRLINE_MARKET_INSIGHTS_AND_PRICING_ANALYSIS.ipynb`) to produce data cleaning, feature engineering, exploratory analysis, and visualizations. Implemented in **Google Colab / Jupyter Notebook** with Python (pandas, matplotlib, seaborn).
+Analyzed 300,000+ Indian airline records using Python and SQL to uncover pricing trends, route demand, and travel patterns, with complete data cleaning, feature engineering, EDA, and visualizations to support data-driven airline optimization.
 
 ---
 
@@ -13,7 +13,7 @@ Conducted an in-depth analysis of commercial flight records to uncover trends in
 - **Total Records:** ~300,000+ (as used during analysis)  
 - **Core Features:** `Airline`, `Source` / `Origin`, `Destination`, `Date_of_Journey`, `Dep_Time`, `Arrival_Time`, `Duration`, `Total_Stops`, `Price`, `Route`, `Class` (if present)
 
-> ⚠️ If your CSV has a different filename or additional columns, update the notebook input path and README accordingly.
+
 
 ---
 
