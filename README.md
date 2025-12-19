@@ -39,6 +39,7 @@ Analyzed 300,000+ Indian airline records using Python and SQL to uncover pricing
 5. **Visualization**
    - Bar charts, boxplots, histograms, heatmaps
    - Interactive charts with Plotly (optional)
+   - Bar charts were used for category comparisons, boxplots for price variability and outliers, histograms for price distribution, heatmaps for correlation analysis, and Plotly was used to create interactive visualizations for better insight exploration.
 6. **Insights & Reporting**
    - Peak/off-peak travel windows
    - Popular and least popular routes
